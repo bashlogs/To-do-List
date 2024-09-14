@@ -1,4 +1,8 @@
 Flask 
 Flask-JWT-Extended 
+flask_cors
 psycopg2-binary 
 bcrypt
+python-dotenv
+logging 
+datetime 
