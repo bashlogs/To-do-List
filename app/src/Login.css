@@ -1,0 +1,42 @@
+.login-container {
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .login-container h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .login-inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .login-inputs input {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 100%; /* Ensures input fields take full width */
+  }
+  
+  .login-inputs button {
+    padding: 10px;
+    border: none;
+    background-color: #007BFF;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%; /* Ensures button takes full width */
+    box-sizing: border-box; /* Includes padding and border in the element's total width and height */
+  }
+  
+  .login-inputs button:hover {
+    background-color: #0056b3;
+  }
+  

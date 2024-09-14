@@ -1,0 +1,64 @@
+.report-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .report-header {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .report-inputs {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .report-inputs input {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
+  .report-inputs button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007BFF;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .report-inputs button:hover {
+    background-color: #0056b3;
+  }
+  
+  .report-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .report-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .report-list li span {
+    flex: 1;
+  }
+  
+  .report-list li {
+    background-color: #f9f9f9;
+  }
+  
+  .report-list li:nth-child(even) {
+    background-color: #f1f1f1;
+  }
+  

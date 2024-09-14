@@ -1,0 +1,4 @@
+Flask 
+Flask-JWT-Extended 
+psycopg2-binary 
+bcrypt
