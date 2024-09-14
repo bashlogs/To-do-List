@@ -25,9 +25,11 @@ pip install -r requirements.txt
 5. Run `yarn start` in the root directory to start the application
 
 ### Database Design
+![drawSQL-image-export-2024-09-14](https://github.com/user-attachments/assets/6f2070b8-ea0b-4703-a8eb-a190551833be)
 
+### Flow Diagram
+<img width="1664" alt="Untitled(2)" src="https://github.com/user-attachments/assets/a73796d2-3a4c-4632-92b5-8bb7c59de303">
 
 ### Home Page
-
-
+![image](https://github.com/user-attachments/assets/847680b3-dce8-4935-bda7-b3d0cab89bb8)
 
